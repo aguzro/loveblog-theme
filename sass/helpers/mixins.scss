@@ -1,0 +1,16 @@
+@mixin list {
+	list-style: none;
+	overflow: hidden;
+}
+
+@mixin photogallery {
+	width: 30px;
+	height: 30px;
+	background: $pink;
+	border: 1px solid $dark-pink;
+}
+
+@mixin inline-block {
+	display: inline-block;
+}
+

@@ -1,0 +1,11 @@
+ul .nav {
+	list-style: none;
+	overflow: hidden;
+	li {
+		float: left;
+		
+		a{
+			text-decoration: none;
+		}
+	}	
+}

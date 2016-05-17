@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACP,KAAK,EAAC,KAAK;;AAEf,UAAW;EACP,KAAK,EAAC,IAAI;;ACJd,YAAa;EACZ,UAAU,ECDC,OAAO;;ACAnB,OAAQ;EACP,UAAU,EAAE,IAAI;EAChB,QAAQ,EAAE,MAAM;EAChB,UAAG;IACF,KAAK,EAAE,IAAI;IAEX,YAAC;MACA,eAAe,EAAE,IAAI;;ACPxB,aAAc;ECMb,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,UAAU,EHPJ,OAAO;EGQb,MAAM,EAAE,iBAAoB;;ADN7B,MAAO;ECUN,OAAO,EAAE,YAAY",
+"sources": ["../sass/base/global.scss","../sass/layout/footer.scss","../sass/helpers/variables.scss","../sass/layout/header.scss","../sass/pages/about.scss","../sass/helpers/mixins.scss"],
+"names": [],
+"file": "main.css"
+}

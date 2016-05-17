@@ -1,0 +1,27 @@
+.floatright {
+  float: right; }
+
+.floatleft {
+  float: left; }
+
+.footer_area {
+  background: #E56740; }
+
+ul .nav {
+  list-style: none;
+  overflow: hidden; }
+  ul .nav li {
+    float: left; }
+    ul .nav li a {
+      text-decoration: none; }
+
+.photogallery {
+  width: 30px;
+  height: 30px;
+  background: #F3B29E;
+  border: 1px solid #E56740; }
+
+.textR {
+  display: inline-block; }
+
+/*# sourceMappingURL=main.css.map */
